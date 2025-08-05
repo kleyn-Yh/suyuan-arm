@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/http">
+        <file>webapp.ini</file>
+    </qresource>
+</RCC>
